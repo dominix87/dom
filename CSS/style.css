@@ -1,0 +1,42 @@
+body{
+    font-family: sans-serif;
+    
+}
+.main {
+    width: 500px;
+    height: 100%;
+    margin: auto;  
+    background-color: black;
+    outline: 0px solid black;
+}
+
+h1{
+    text-align: center; 
+    font-size: 36px;
+    text-transform: uppercase
+}
+
+.text{
+    font-size: 11pt;
+}
+
+h2{
+    font-family: sans-serif;
+    font-size: 13pt;
+    font-weight: bolder;
+}
+
+
+.ivan {
+    position: relative;
+    left: 150px;
+}
+
+p, a{
+    padding-left: 35px;
+    font-size: 10pt;
+    font: 
+}
+a {
+    font-style: italic;
+}
